@@ -39,15 +39,14 @@ export default function Hero() {
             className="mt-6 text-4xl sm:text-5xl md:text-7xl font-extrabold tracking-tight text-[#F8F7FA] leading-[0.95]"
             style={{ fontFamily: 'var(--font-display)' }}
           >
-            Ogni curva
+            Nati per l'asfalto,
             <br />
-            merita <span className="text-[#E63946]">l'attrezzatura</span> giusta.
+            plasmati per <span className="text-[#E63946]">la massima resa</span>.
           </h1>
 
           <p className="mt-6 text-lg md:text-xl text-[#F8F7FA]/80 max-w-2xl leading-relaxed">
-            Abbigliamento tecnico e accessori da moto progettati in Italia. Tessuti
-            balistici, protezioni omologate EN 1621 e cuciture rinforzate: pensati
-            per chi guida davvero, ogni giorno, con qualsiasi tempo.
+            Equipaggiamento tecnico d'eccellenza, ingegnerizzato in Italia con standard da competizione.
+            Materiali balistici ultra-resistenti, protezioni di livello 2 e comfort aerodinamico per dominare ogni percorso.
           </p>
 
           <div className="mt-9 flex flex-col sm:flex-row items-stretch sm:items-center gap-3">
